@@ -1,0 +1,17 @@
+[Object0]
+Name=TextDisplay1
+WindowState=0
+Left=110
+Top=110
+Width=510
+Height=441
+[Object1]
+Name=ImageDisplay3
+WindowState=0
+Left=25
+Top=25
+Width=799
+Height=334
+[Object2]
+Name=List1
+WindowState=2
